@@ -84,14 +84,14 @@ EOL
       else
          echo -en "\033[0;94m"
       fi
-      echo "  ___ _   _  __ ___      _(_)_ __  
-      echo " / __| | | |/ _` \ \ /\ / / | '_ \ 
-      echo "  (__| |_| | (_| |\ V  V /| | | | |
-      echo " \___|\__, |\__, | \_/\_/ |_|_| |_|
-      echo "      |___/ |___/                  
+      echo "  ___ _   _  __ ___      _(_)_ __ " 
+      echo " / __| | | |/ _` \ \ /\ / / | '_ \ "
+      echo "  (__| |_| | (_| |\ V  V /| | | | |"
+      echo " \___|\__, |\__, | \_/\_/ |_|_| |_|"
+      echo "      |___/ |___/                  "
       echo -en "\033[0m"
       echo "                     github.com/jaypatnk/bash-funk"
-      echo
+      echo " "
 
       echo "Local Version: $__BASH_FUNK_VERSION"
       echo
